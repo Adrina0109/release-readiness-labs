@@ -1,4 +1,4 @@
-# release-readiness-lab
+# OrderFlow
 
 This repository contains the Release Readiness Investigation & Deployment Approval Lab.
 
@@ -11,15 +11,15 @@ A simple Node.js Express application.
 - `GET /health`
 
 ## Current Release
-v2.4
+v2.3.0
 Production Deployment
 
 ## Getting Started
 
 ### Clone
 ```bash
-git clone https://github.com/kalviumcommunity/release-readiness-labs.git
-cd release-readiness-labs
+git clone https://github.com/kalvium-devops/release-readiness-lab.git
+cd release-readiness-lab
 ```
 
 ### Install
